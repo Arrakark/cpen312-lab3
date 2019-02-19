@@ -1,0 +1,97 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sec_ls[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ls[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ls[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ls[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ls[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ls[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sec_ls[6]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[0]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[1]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[2]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[3]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[4]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[5]",
+					"strict" : false
+				},
+				{
+					"name" : "min_ls[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hour_ls[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
