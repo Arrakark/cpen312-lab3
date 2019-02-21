@@ -110,7 +110,7 @@ GND                          : AA11      : gnd    :                   :         
 RESERVED_INPUT               : AA12      :        :                   :         : 3B        :                
 RESERVED_INPUT               : AA13      :        :                   :         : 4A        :                
 RESERVED_INPUT               : AA14      :        :                   :         : 4A        :                
-hour_down                    : AA15      : input  : 2.5 V             :         : 4A        : Y              
+RESERVED_INPUT               : AA15      :        :                   :         : 4A        :                
 VCCIO4A                      : AA16      : power  :                   : 2.5V    : 4A        :                
 sec_ms[1]                    : AA17      : output : 2.5 V             :         : 4A        : Y              
 sec_ms[3]                    : AA18      : output : 2.5 V             :         : 4A        : Y              
@@ -460,7 +460,7 @@ RESERVED_INPUT               : T9        :        :                   :         
 RESERVED_INPUT               : T10       :        :                   :         : 3B        :                
 VCCIO3B                      : T11       : power  :                   : 2.5V    : 3B        :                
 min_up                       : T12       : input  : 2.5 V             :         : 4A        : Y              
-min_down                     : T13       : input  : 2.5 V             :         : 4A        : Y              
+RESERVED_INPUT               : T13       :        :                   :         : 4A        :                
 hour_ms[4]                   : T14       : output : 2.5 V             :         : 4A        : Y              
 RESERVED_INPUT               : T15       :        :                   :         : 5A        :                
 GND                          : T16       : gnd    :                   :         :           :                
@@ -482,7 +482,7 @@ GND                          : U9        : gnd    :                   :         
 RESERVED_INPUT               : U10       :        :                   :         : 3B        :                
 RESERVED_INPUT               : U11       :        :                   :         : 3B        :                
 RESERVED_INPUT               : U12       :        :                   :         : 3B        :                
-sec_down                     : U13       : input  : 2.5 V             :         : 4A        : Y              
+RESERVED_INPUT               : U13       :        :                   :         : 4A        :                
 VCCIO4A                      : U14       : power  :                   : 2.5V    : 4A        :                
 hour_ls[2]                   : U15       : output : 2.5 V             :         : 4A        : Y              
 hour_ls[3]                   : U16       : output : 2.5 V             :         : 4A        : Y              
